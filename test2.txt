@@ -1,2 +1,9 @@
-this is new test2.txt file 
-git
+his month to do list
+september 2024
+--->>portfolio making
+--->>host the project
+--->>react learning
+--->>journal writting
+--->>linkedin account
+
+
