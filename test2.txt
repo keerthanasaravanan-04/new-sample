@@ -8,5 +8,10 @@ september 2024
 --->>data structure and algorithm practice
 --->>dsa learning
 --->>english learning and practice
+--->full stack development 
+--->data science & AI & ML
+--->book reading
+--->PG reading
+
 
 
